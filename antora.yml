@@ -3,8 +3,8 @@
 name: antora-gh-component1
 title: Antora GitHub Pages Demo Component 1
 # version: true
-start_page: 01-ROOT:index.adoc
+start_page: ROOT:index.adoc
 version: '7.0'
 nav:
-  - modules/01-ROOT/nav.adoc
-  - modules/02-vis-component1b/nav.adoc
+  - modules/ROOT/nav.adoc
+  - modules/vis-comp1b/nav.adoc
