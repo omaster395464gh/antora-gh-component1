@@ -1,5 +1,4 @@
-= The Dangers of Wolpertingers
-:url-wolpertinger: https://en.wikipedia.org/wiki/Wolpertinger
+= Demo
 
 Don't worry about gumberoos or splintercats. component1b 01-root
 Something far more fearsome plagues the days, nights, and inbetweens.
